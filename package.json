@@ -20,6 +20,7 @@
   "devDependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.10",
+    "@babel/plugin-proposal-pipeline-operator": "^7.16.7",
     "@babel/preset-env": "^7.16.11"
   },
   "dependencies": {

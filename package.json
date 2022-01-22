@@ -1,0 +1,28 @@
+{
+  "name": "javascript-infrastructure-cli-npm-babel-and-webpack",
+  "version": "1.0.0",
+  "description": "Repo from the udemy course: JavaScript Infrastructure: CLI, NPM, Babel and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbeto21/JavaScript-Infrastructure-CLI-NPM-Babel-and-Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbeto21/JavaScript-Infrastructure-CLI-NPM-Babel-and-Webpack/issues"
+  },
+  "homepage": "https://github.com/gbeto21/JavaScript-Infrastructure-CLI-NPM-Babel-and-Webpack#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.10",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
+  }
+}
